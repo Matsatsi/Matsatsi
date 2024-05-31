@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, i'm Matsatsi<br>Currently studying computer science at Tshwane University of Technology<br>I'm currently learning about Data science and cloud Foundation.
+Hi there, i'm Matsatsi<br>Currently studying computer science at Tshwane University of Technology<br>I'm currently learning about Data analytics and cloud Foundation.
 
 
 ## 🌐 Socials:
