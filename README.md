@@ -1,4 +1,4 @@
-👋Hi there, i'm Matsatsi<br><br>💻Currently studying computer science at Tshwane University of Technology<br><br>🔭 I’m currently working on Documents certifying System<br><br>🌱 I’m currently learning React and Node.js<br><br>💬 Ask me about java
+👋Hi there, i'm Matsatsi Germina <br><br>💻Currently studying computer science at Tshwane University of Technology<br><br>🔭 I’m currently working on Documents certifying System<br><br>🌱 I’m currently learning React and Node.js<br><br>💬 Ask me about java
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/matsatsimasetla) <br>matsatsimasetla@gmail.com
 
